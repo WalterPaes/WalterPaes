@@ -1,5 +1,4 @@
 ### Hi, Welcome to my GitHub Profile 👋
-<hr/>
 <p>I'm Walter Paes, a web and mobile developer 👨‍💻</p>
 
 <center>
