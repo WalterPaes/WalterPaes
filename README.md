@@ -1,5 +1,7 @@
 ### Hi, Welcome to my GitHub Profile 👋
 <p>I'm Walter Paes, a web and mobile developer 👨‍💻</p>
+<p>Man United's fan 🔴</p>
+<p>Goalkeeper ⚽🧤🥅</p>
 
 <center>
 <table>
