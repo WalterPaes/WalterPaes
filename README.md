@@ -1,7 +1,16 @@
 ### Hi, Welcome to my GitHub Profile 👋
 <p>I'm Walter Paes, a web and mobile developer 👨‍💻</p>
-<p>Man United's fan 🔴</p>
-<p>Goalkeeper ⚽🧤🥅</p>
+
+- 🧭 Back-end Developer at [Hostgator Latam](https://www.hostgator.com.br/)
+
+## Skills
+- 👨‍💻 PHP, Go, JS, Java, Kotlin
+- ⚙️ React, Vue, Laravel, Lumen, Slim, CodeIgniter
+- :cloud: AWS
+- 💽 MySQL, DynamoDb
+
+## Contact
+- [Linkedin](https://www.linkedin.com/in/walter-paes/)
 
 <center>
 <table>
