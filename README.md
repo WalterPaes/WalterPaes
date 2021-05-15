@@ -3,7 +3,7 @@
 
 ## Skills
 <a href="https://www.php.net/">
-    <img src="icons/php.png" alt="PHP" width="50" height="50">
+    <img src="icons/php.png" alt="PHP" width="64" height="34">
 </a>
 <a href="https://golang.org/">
     <img src="icons/go.png" alt="Go" width="50" height="50">
@@ -30,7 +30,7 @@
     <img src="icons/docker.png" alt="Docker" width="50" height="50">
 </a>
 <a href="https://www.mysql.com/">
-    <img src="icons/mysql.png" alt="MySQL" width="50" height="50">
+    <img src="icons/mysql.png" alt="MySQL" width="64" height="33">
 </a>
 
 ## Contact
