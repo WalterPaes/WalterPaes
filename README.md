@@ -9,8 +9,8 @@
 [![Node JS](icons/node.png)](https://nodejs.org/en/)
 [![Vue](icons/vue.png)](https://vuejs.org/)
 [![Docker](icons/docker.png)](https://www.docker.com/)
-[![Kafka](icons/kafka.png)](https://kafka.apache.org/)
-[![Serverless](icons/serverless.png)](https://www.serverless.com/)
+<a href="https://kafka.apache.org/" target="_blank"><img src="icons/kafka.png" alt="Kafka" width="64"/></a>
+<a href="https://www.serverless.com/" target="_blank"><img src="icons/serverless.png" alt="Serverless" width="64"/></a>
 [![AWS](icons/aws.png)](https://aws.amazon.com/)
 
 ## Contact
