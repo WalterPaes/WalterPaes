@@ -1,17 +1,17 @@
-### Hello, I'm Walter! 👨‍💻
-- Back-end Developer at [PicPay](https://picpay.com.br/site)
+### Hello, I'm Walter! 
+👨‍💻 Back-end Developer at [PicPay](https://picpay.com.br/site)
 
 ## Skills
 [![PHP](icons/php.png)](https://www.php.net/)
 [![Go](icons/go.png)](https://golang.org/)
 [![JS](icons/js.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Kotlin](icons/kotlin.png)](https://kotlinlang.org/)
 [![Laravel](icons/laravel.png)](https://laravel.com/)
+[![Node JS](icons/node.png)](https://nodejs.org/en/)
 [![Vue](icons/vue.png)](https://vuejs.org/)
-[![React](icons/react.png)](https://pt-br.reactjs.org/)
-[![AWS](icons/aws.png)](https://aws.amazon.com/)
 [![Docker](icons/docker.png)](https://www.docker.com/)
-[![MySQL](icons/mysql.png)](https://www.mysql.com/)
+[![Kafka](icons/kafka.png)](https://kafka.apache.org/)
+[![Serverless](icons/serverless.png)](https://www.serverless.com/)
+[![AWS](icons/aws.png)](https://aws.amazon.com/)
 
 ## Contact
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/walter-paes/)
