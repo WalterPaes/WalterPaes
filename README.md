@@ -1,6 +1,6 @@
 ### Hello, I'm Walter! 
 
-👨‍💻 Software Engineer at [Pismo](https://pismo.io/)
+👨‍💻 Software Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-WalterPaes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walter-paes/)](https://www.linkedin.com/in/walter-paes/)
 
